@@ -1,4 +1,4 @@
-import { toDoReducer } from './../08-useReducer/toDoReducer'
+import { toDoReducer } from './toDoReducer'
 import { useReducer, useEffect } from 'react'
 
 /*
